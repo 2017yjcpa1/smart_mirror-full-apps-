@@ -1,1 +1,1 @@
-# smart_mirror-full-apps-
+스마트미러 모든 앱
